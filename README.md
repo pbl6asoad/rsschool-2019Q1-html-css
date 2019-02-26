@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Ilya Yukhimiuk
+HTML CSS Basics: https://www.codecademy.com/users/pbl6asoad/achievements
